@@ -11,3 +11,7 @@ To install, download the tltwindowsmac.py file and run with python.
 Or. if your computer doesn't support python, you can download the tltreplit.py file and run it in replit.com.
 I am going to add a button here that you can click to fork to repl.it.
 [![Run on Repl.it](https://replit.com/@AndrewWang48/thelosttrinket#tltreplit.py)](https://replit.com/@AndrewWang48/thelosttrinket#tltreplit.py)
+
+
+
+![image](https://user-images.githubusercontent.com/58711340/112382334-1b083980-8cc2-11eb-8792-bc063097aa07.png)
